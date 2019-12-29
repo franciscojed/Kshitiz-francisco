@@ -1,5 +1,12 @@
-#navbar{
-  height: 34px;
-  width: 100%;
-  background-color: skyblue;
+@media (min-width: 800px) {
+  #navbar{
+    height: 34px;
+    width: 100%;
+    background-color: skyblue;
+  }
+}
+
+#welcome-section{
+  height: 100vh;
+  background-color: lightgray;
 }
